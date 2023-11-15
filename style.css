@@ -17,7 +17,8 @@ body,html {
 	background-color: #FFF;
 }
 header {
-    background: #AEC6CF;
+    background: rgb(34,193,195);
+    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
     padding: 20px 30px;
     max-width: 940px;
     margin: auto;
