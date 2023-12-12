@@ -66,15 +66,15 @@ article {
     border-bottom: 2px dotted #999;
     padding-bottom: 20px;
     margin-bottom: 20px;
-    color:black
+    color:white
 }
 article h2 {
     font-weight: bold;
     margin-bottom: 12px;
-    color:black
+    color:white
 }
 article p {
-    color:black
+    color:white
 }
 main section {
 	
