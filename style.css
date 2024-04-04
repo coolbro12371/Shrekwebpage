@@ -16,7 +16,7 @@ input,select{vertical-align:middle}
 @snowsize: 450px;
 @snowfall: 20s;
 body,html {
-background-image: url("img/pureblack.png");
+background-color: #008000;
 background-repeat:no-repeat;
 background-size: cover;
 background-position: center; 
